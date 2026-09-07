@@ -1,0 +1,12 @@
+{
+  "name": "bright-paths-sim",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Traffic simulator for the Bright Paths Tutoring prototype",
+  "scripts": {
+    "simulate": "node simulate-traffic.mjs",
+    "dry-run": "node simulate-traffic.mjs --dry-run"
+  },
+  "engines": { "node": ">=18" }
+}

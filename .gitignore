@@ -1,0 +1,9 @@
+# Local, never-committed config (e.g. a PostHog key you'd rather keep in a file)
+js/config.local.js
+
+# Node
+node_modules/
+npm-debug.log*
+
+# OS
+.DS_Store
